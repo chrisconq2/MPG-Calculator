@@ -1,0 +1,30 @@
+body {
+text-align: center;
+background-color: hsl(0, 0%, 15%);
+color: hsl(0, 0%, 75%)
+}
+
+.outline {
+text-align: center;
+display: block;
+border: 2px solid blue;
+border-radius: 5px;
+width: 500px;
+margin: auto;
+padding: 25px;
+color: hsl(0, 0%, 75%)
+}
+
+button{
+border: none;
+background-color: blue;
+color: black;
+font-family: sans-serif;
+padding: 5px;
+border-radius: 10px;
+cursor: pointer;
+}
+
+.outline textbox{
+padding: 25px;
+}
